@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9970f6a-25ff-4b43-bf20-9c58fa7f412d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1d8Om3BhOViY0wxd3Bej1TLvUn7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scanner" />
+      <module name="lab7" />
+      <option name="PROGRAM_PARAMETERS" value="http://google.com 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Scanner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9970f6a-25ff-4b43-bf20-9c58fa7f412d" name="Default Changelist" comment="" />
+      <created>1591803408427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591803408427</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="103" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591803581146">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state x="103" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1298.768@0.0.1298.768" timestamp="1591803581146" />
+    <state width="1255" height="192" key="GridCell.Tab.0.bottom" timestamp="1591803595325">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.bottom/0.0.1298.768@0.0.1298.768" timestamp="1591803595325" />
+    <state width="1255" height="192" key="GridCell.Tab.0.center" timestamp="1591803595324">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.center/0.0.1298.768@0.0.1298.768" timestamp="1591803595324" />
+    <state width="1255" height="192" key="GridCell.Tab.0.left" timestamp="1591803595324">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.left/0.0.1298.768@0.0.1298.768" timestamp="1591803595324" />
+    <state width="1255" height="192" key="GridCell.Tab.0.right" timestamp="1591803595325">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.right/0.0.1298.768@0.0.1298.768" timestamp="1591803595325" />
+  </component>
+</project>
